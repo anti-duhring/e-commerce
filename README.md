@@ -1,5 +1,5 @@
 # E-commerce
-A complete internacional e-commerce with your own products and a functional payment method using React Js, [Commerce.js](https://commercejs.com/) API and [Stripe](https://stripe.com/docs/api) API.
+A complete internacional e-commerce with your own products and a functional payment method using React Js, [Commerce.js](https://commercejs.com/) API and [Stripe](https://stripe.com/docs/api) API. Fully mobile responsive.
 
 You can see the website working right here: https://eshop-test.netlify.app/
 
