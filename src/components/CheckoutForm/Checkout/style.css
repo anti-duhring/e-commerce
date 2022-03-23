@@ -1,0 +1,19 @@
+svg.MuiStepIcon-root.MuiStepIcon-active{
+    color: #002244;
+}
+.MuiInput-underline:after {
+    border-bottom: 2px solid #002244!important;
+}
+
+.MuiFormLabel-root.Mui-focused {
+    color: #002244!important;
+}
+h6.MuiTypography-root.title-form.MuiTypography-h6 {
+    margin-bottom: 1em;
+}
+.list-item {
+    padding: 10px 0;
+}
+.subtitle-total{
+    font-weight: 700;
+}
