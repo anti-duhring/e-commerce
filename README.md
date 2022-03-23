@@ -1,3 +1,47 @@
+# E-commerce
+A complete internacional e-commerce with your own products and a functional payment method using React Js, [Commerce.js](https://commercejs.com/) API and [Stripe](https://stripe.com/docs/api) API.
+
+# Funcionality
+![1](https://user-images.githubusercontent.com/99638905/159783430-e5fff365-9308-4fe2-9d5b-4f4854595844.png)
+
+![2](https://user-images.githubusercontent.com/99638905/159783483-4a5b5bc5-f311-41ff-a87d-fc8ee9ffc3d0.png)
+
+![3](https://user-images.githubusercontent.com/99638905/159783515-045dea0f-408b-4170-84f5-eab3b90404a6.png)
+
+![4](https://user-images.githubusercontent.com/99638905/159783524-b87546cb-dfe2-46bb-9fba-9710768aa75f.png)
+
+![5](https://user-images.githubusercontent.com/99638905/159783540-0da55342-8f36-4138-8e26-59dff6920008.png)
+
+![6](https://user-images.githubusercontent.com/99638905/159783631-601b4321-d13e-4c6b-b63a-529b4f0ab055.png)
+
+# Commerce.js
+
+The [Commerce.js](https://commercejs.com/) provides a intuitive plataform to register your business and products. Keep in mind that you don't have to add or edit your products directly in the app, only in the [Commerce.js](https://commercejs.com/) website.
+
+# Stripe API
+
+The [Stripe API](https://stripe.com/docs/api) provides the payment method. You will have all the tools you need to build websites and apps that accept payments and send payments around the world.
+
+# Configuration 
+
+You will need to create an `.env` document (that will not appear on your app) with your Keys that both of APIs provides. This document has to be in the main file just like the `package` and te `package-lock` React files.
+
+```
+REACT_APP_CHEC_PUBLIC_KEY=pk_API_COMMERJS_KEY
+REACT_APP_STRIPE_PUBLIC_KEY=pk_API_STRIPE_KEY
+```
+
+
+# Architecture 
+- HTML and CSS
+- React
+- [Commerce.js](https://commercejs.com/)
+- [Stripe API](https://stripe.com/docs/api)
+
+# Copyright
+
+This is **NOT** a real shop, it is just a personal project to serve as an example. We are not selling any New England Patriots product.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
